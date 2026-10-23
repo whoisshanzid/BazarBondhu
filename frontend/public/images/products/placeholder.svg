@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Product placeholder">
+  <rect width="600" height="600" rx="32" fill="#f8fafc"/>
+  <circle cx="300" cy="280" r="150" fill="#ffedd5"/>
+  <path d="M215 240 H385 L365 420 Q300 440 235 420Z" fill="#f97316"/>
+  <path d="M250 240 Q250 175 300 175 Q350 175 350 240" fill="none" stroke="#9a3412" stroke-width="20"/>
+  <circle cx="300" cy="325" r="30" fill="#fff7ed"/>
+  <text x="300" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#9a3412">BazarBondhu</text>
+</svg>

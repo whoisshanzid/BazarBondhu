@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Baby and toys">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fef3c7"/><stop offset="1" stop-color="#fde68a"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f59e0b" stop-opacity=".9"/><stop offset="1" stop-color="#78350f" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="32" fill="url(#bg)"/>
+  <circle cx="495" cy="105" r="120" fill="#f59e0b" opacity=".12"/>
+  <circle cx="90" cy="490" r="85" fill="#78350f" opacity=".08"/>
+  <path d="M0 500 Q150 455 300 500 T600 500 V600 H0Z" fill="#f59e0b" opacity=".08"/>
+  <circle cx="300" cy="205" r="105" fill="#f59e0b"/>
+       <circle cx="240" cy="170" r="36" fill="#fbbf24"/>
+       <circle cx="360" cy="170" r="36" fill="#fbbf24"/>
+       <circle cx="262" cy="195" r="10" fill="#78350f"/>
+       <circle cx="338" cy="195" r="10" fill="#78350f"/>
+       <ellipse cx="300" cy="230" rx="28" ry="18" fill="#fef3c7"/>
+       <ellipse cx="300" cy="365" rx="120" ry="125" fill="#f59e0b"/>
+       <ellipse cx="300" cy="385" rx="68" ry="72" fill="#fef3c7"/>
+       <circle cx="195" cy="310" r="28" fill="#fbbf24"/>
+       <circle cx="405" cy="310" r="28" fill="#fbbf24"/>
+  <g transform="translate(42 526)">
+    <rect width="150" height="32" rx="16" fill="#ffffff" opacity=".85"/>
+    <circle cx="18" cy="16" r="5" fill="#f59e0b"/>
+    <text x="32" y="21" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#78350f">BazarBondhu</text>
+  </g>
+</svg>

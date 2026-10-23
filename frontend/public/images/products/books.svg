@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Books and stationery">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef2ff"/><stop offset="1" stop-color="#c7d2fe"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366f1" stop-opacity=".9"/><stop offset="1" stop-color="#312e81" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="32" fill="url(#bg)"/>
+  <circle cx="495" cy="105" r="120" fill="#6366f1" opacity=".12"/>
+  <circle cx="90" cy="490" r="85" fill="#312e81" opacity=".08"/>
+  <path d="M0 500 Q150 455 300 500 T600 500 V600 H0Z" fill="#6366f1" opacity=".08"/>
+  <rect x="170" y="355" width="280" height="60" rx="12" fill="#6366f1"/>
+       <rect x="195" y="300" width="250" height="60" rx="12" fill="#818cf8"/>
+       <rect x="155" y="245" width="300" height="60" rx="12" fill="#4f46e5"/>
+       <rect x="220" y="170" width="175" height="80" rx="10" fill="#eef2ff" stroke="#312e81" stroke-width="8"/>
+       <rect x="245" y="195" width="100" height="8" rx="4" fill="#6366f1"/>
+       <rect x="245" y="215" width="72" height="7" rx="3" fill="#c7d2fe"/>
+  <g transform="translate(42 526)">
+    <rect width="150" height="32" rx="16" fill="#ffffff" opacity=".85"/>
+    <circle cx="18" cy="16" r="5" fill="#6366f1"/>
+    <text x="32" y="21" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#312e81">BazarBondhu</text>
+  </g>
+</svg>

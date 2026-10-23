@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Fashion alternate view">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fdf2f8"/><stop offset="1" stop-color="#fbcfe8"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ec4899" stop-opacity=".9"/><stop offset="1" stop-color="#831843" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="32" fill="url(#bg)"/>
+  <circle cx="105" cy="105" r="120" fill="#ec4899" opacity=".12"/>
+  <circle cx="500" cy="490" r="85" fill="#831843" opacity=".08"/>
+  <path d="M0 500 Q150 455 300 500 T600 500 V600 H0Z" fill="#ec4899" opacity=".08"/>
+  <path d="M190 160 L240 125 L300 150 L360 125 L410 160 L380 230 L350 220 V455 H250 V220 L220 230Z" fill="#831843"/>
+       <path d="M250 220 L300 300 L350 220" fill="none" stroke="#fbcfe8" stroke-width="8"/>
+       <circle cx="300" cy="190" r="14" fill="#fbcfe8" opacity=".65"/>
+       <path d="M250 340 H350" stroke="#f9a8d4" stroke-width="6" stroke-dasharray="8 10"/>
+  <g transform="translate(42 526)">
+    <rect width="150" height="32" rx="16" fill="#ffffff" opacity=".85"/>
+    <circle cx="18" cy="16" r="5" fill="#ec4899"/>
+    <text x="32" y="21" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#831843">BazarBondhu</text>
+  </g>
+</svg>

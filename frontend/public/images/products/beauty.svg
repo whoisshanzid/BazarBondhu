@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Beauty and health">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#faf5ff"/><stop offset="1" stop-color="#e9d5ff"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7" stop-opacity=".9"/><stop offset="1" stop-color="#581c87" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="32" fill="url(#bg)"/>
+  <circle cx="495" cy="105" r="120" fill="#a855f7" opacity=".12"/>
+  <circle cx="90" cy="490" r="85" fill="#581c87" opacity=".08"/>
+  <path d="M0 500 Q150 455 300 500 T600 500 V600 H0Z" fill="#a855f7" opacity=".08"/>
+  <rect x="230" y="240" width="140" height="210" rx="24" fill="#581c87"/>
+       <path d="M255 240 L255 170 Q300 140 345 170 L345 240Z" fill="#a855f7"/>
+       <rect x="278" y="90" width="44" height="80" rx="16" fill="#581c87"/>
+       <rect x="270" y="80" width="60" height="25" rx="12" fill="#e9d5ff"/>
+       <rect x="255" y="320" width="90" height="80" rx="10" fill="#faf5ff" opacity=".9"/>
+       <path d="M275 360 Q300 340 325 360" fill="none" stroke="#a855f7" stroke-width="6"/>
+  <g transform="translate(42 526)">
+    <rect width="150" height="32" rx="16" fill="#ffffff" opacity=".85"/>
+    <circle cx="18" cy="16" r="5" fill="#a855f7"/>
+    <text x="32" y="21" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#581c87">BazarBondhu</text>
+  </g>
+</svg>

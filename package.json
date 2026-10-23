@@ -1,0 +1,29 @@
+{
+  "name": "bazarbondhu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BazarBondhu - an original Bangladesh-inspired e-commerce marketplace",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "npm run start -w backend",
+    "dev": "concurrently -n API,WEB -c yellow,cyan \"npm run dev -w backend\" \"npm run dev -w frontend\"",
+    "dev:backend": "npm run dev -w backend",
+    "dev:frontend": "npm run dev -w frontend",
+    "build": "npm run build -w frontend",
+    "admin:set-password": "npm run admin:set-password -w backend",
+    "lint": "npm run lint -w frontend",
+    "db:setup": "npm run db:setup -w backend",
+    "test:api": "npm run test:api -w backend",
+    "test:e2e": "npm run test:e2e -w frontend",
+    "test": "npm run test:api && npm run test:e2e"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  }
+}
